@@ -8,3 +8,216 @@
 img {
     max-width: 100%;
 }
+
+.main-menu {
+    display: flex;
+    float: left;
+    margin: 0;
+}
+
+.main-menu ul {
+    list-style: none;
+}
+
+.main-menu ul li {
+    float: left;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.main-menu-style {
+    font-size: 15px;
+}
+
+.search {
+    width: 530px;
+    float: left;
+    margin-left: 50px;
+}
+
+.main-header {
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.main-logo {
+    padding: 10px;
+}
+
+.search {
+    float: left;
+    /* width: 30%; */
+    /* border: 1px solid black; */
+}
+
+.srch {
+    font-family: 'Times New Roman';
+    width: 300px;
+    height: 40px;
+    background: transparent;
+    /* border: 1px solid black; */
+    margin-top: 13px;
+    color: black;
+    border-right: none;
+    font-size: 16px;
+    /* float: left; */
+    padding: 10px;
+    /* border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px; */
+}
+
+.btn {
+    width: 40px;
+    height: 40px;
+    background: #FF4157;
+    border: 2px solid #FF4157;
+   
+    color: #fff;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.btn1 {
+    width: 150px;
+    height: 40px;
+    background: white;
+    /* border: 1px solid black; */
+    color: black;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
+}
+
+.sub-logo {
+    color: black;
+    display: flex;
+}
+
+.sub-logo h1 {
+    font-size: 20px;
+    margin-top: 7px;
+    margin-right: 60px;
+}
+
+.sub-header {
+    display: flex;
+    float: left;
+}
+
+.sun-menu {
+    width: 70%;
+}
+
+.sub-menu ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.sub-logo ul li a {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.sub-logo ul li {
+    margin-top: 10px;
+    border: 1px solid #FF4157;
+    border-radius: 50%;
+    padding: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #FF4157;
+}
+
+.sub-menu ul li a {
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 20px;
+    color: black;
+}
+
+.sub-menu ul li a:hover {
+    background: #FF4157;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.sub-menu ul li {
+    float: left;
+    text-decoration: none;
+}
+
+.avatar1 {
+    width: 20px;
+    padding-right: 3px;
+}
+
+.sub-country {
+    text-align: right;
+}
+
+.sub-country ul {
+    list-style: none;
+    margin-left: 200px;
+}
+
+.sub-country ul li a {
+    text-decoration: none;
+    background: gainsboro;
+    padding: 5px;
+    margin-left: 5px;
+    color: black;
+}
+
+.sub-country ul li {
+    float: left;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#horizontal-line {
+    height: 1px;
+    width: 1500px;
+    color: black;
+    background: black;
+    margin-bottom: 10px;
+}
+
+#horizontal-line2 {
+    height: 1px;
+    width: 1500px;
+    color: black;
+    background: black;
+    margin-bottom: 10px;
+    margin-top: 60px;
+}
+
+.first-section-box {
+    background: url('images/lovepik-interior-design-of-womens-clothing-store-picture_500622693.jpg') no-repeat;
+    width: 100%;
+    padding: 55px 0px;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.first-section-part h1 {
+    
+
+}

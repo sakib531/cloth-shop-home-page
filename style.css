@@ -193,7 +193,7 @@ img {
 
 #horizontal-line {
     height: 1px;
-    width: 1300px;
+    width: 1340px;
     color: black;
     background: black;
     margin-bottom: 10px;
@@ -201,7 +201,7 @@ img {
 
 #horizontal-line2 {
     height: 1px;
-    width: 1300px;
+    width: 1340px;
     color: black;
     background: black;
     margin-bottom: 10px;
@@ -456,3 +456,404 @@ img {
     color: white;
 }
 
+
+.b-box-img-1 {
+    width: 94%;
+    height: 400px;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.b-box-img-2 {
+    width: 94%;
+    height: 400px;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.b-box {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.b-box-item {
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.b-box-item ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.fifth-section-part {
+    width: 50%;
+}
+
+.b-box-item ul li {
+    display: block;
+}
+
+.b-box-item h2 {
+    margin-top: 40px;
+    font-size: 35px;
+    color: black;
+}
+
+.b-box-item h3 {
+    margin-top: 20px;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.b-box-item p {
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.buy-5 {
+    font-size: 30px;
+    padding: 10px 50px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #FF4157;
+    color: white;
+}
+
+.fifth-section-matter {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fifth-section-part h1 {
+    margin-left: 20px;
+    border: 1px solid #FF4157;
+    background: #FF4157;
+    color: white;
+    margin-right: 400px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#horizontal-line3 {
+    background: black;
+    width: 1340px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#horizontal-line4 {
+    background: black;
+    width: 1340px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.c-box-img-1 {
+    width: 94%;
+    height: 400px;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.c-box-img-2 {
+    width: 94%;
+    height: 400px;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.c-box {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.c-box-item {
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.c-box-item ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.sixth-section-part {
+    width: 50%;
+}
+
+.c-box-item ul li {
+    display: block;
+}
+
+.c-box-item h2 {
+    margin-top: 40px;
+    font-size: 35px;
+    color: black;
+}
+
+.c-box-item h3 {
+    margin-top: 20px;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.c-box-item p {
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.buy-6 {
+    font-size: 30px;
+    padding: 10px 50px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: #FF4157;
+    color: white;
+}
+
+.sixth-section-matter {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sixth-section-part h1 {
+    margin-left: 20px;
+    border: 1px solid #FF4157;
+    background: #FF4157;
+    color: white;
+    margin-right: 300px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#horizontal-line5 {
+    background: black;
+    width: 1340px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.seventh-section-matter {
+    width: 98%;
+    margin-right: 2%;
+    display: flex;
+}
+
+.seventh-section-part {
+    width: 10.5%;
+    margin-left: 2%;
+}
+
+.seventh-section-img1 {
+    height:200px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+
+.seventh-section-box {
+    background: url('images/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai_188544-9655.avif') no-repeat;
+    width: 100%;
+    padding: 30px 0px;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+#horizontal-line6 {
+    background: black;
+    width: 1340px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.eighth-section-matter {
+    width: 98%;
+    margin-right: 2%;
+}
+
+.d-box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.d-box-item:hover {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    transform: translate(0px , -8px);
+}
+
+.d-box-item {
+    width: 18%;
+    margin-left: 2%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    transition: .4s;
+    background: white;
+}
+
+.d-box-item button {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background: #FF4157;
+    width: 238px;
+    padding: 15px 41px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.d-box-img1 {
+    height: 290px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.d-box-img2 {
+    height: 450px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+}
+
+.d-box-item p {
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.d-box-item h1 {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.d-box-item ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.d-box-item ul li {
+    padding-top: 5px;
+}
+
+
+#horizontal-line7 {
+    background: black;
+    width: 1340px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-matter {
+    width: 100%;
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-part1 {
+    width: 30%;
+}
+
+.footer-part1 h2 {
+    color: white;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    padding-top: 20px;
+}
+
+.footer-part1 p {
+    color: white;
+    margin-left: 5px;
+    padding-top: 20px;
+}
+
+input#Your-email {
+    width: 96%;
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 2%;
+    border-radius: 20px;
+}
+
+.subscribe {
+    padding: 12px 138px;
+    font-size: 25px;
+    text-align: center;
+    background: #FF4157;
+    color:white;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.footer-part2 {
+    width: 15%;
+    padding-top: 40px;
+}
+
+.footer-part2 ul li {
+    padding: 8px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.footer-part2 ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-part2 ul li a {
+    text-decoration: none;
+
+}

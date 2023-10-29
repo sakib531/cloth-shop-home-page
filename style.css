@@ -855,5 +855,43 @@ input#Your-email {
 
 .footer-part2 ul li a {
     text-decoration: none;
+    color: white;
+}
 
+.footer-part3 {
+    width: 20%;
+}
+
+.footer-part3 ul {
+    list-style: none;
+}
+
+.footer-part3 ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 5px;
+}
+
+.footer-img1 {
+    padding-top: 100px;
+}
+
+.footer-part4 {
+    width: 20%;
+}
+
+.footer-part4 ul li {
+    padding: 8px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.footer-part4 ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-part4 ul li a {
+    text-decoration: none;
+    color: white;
 }
